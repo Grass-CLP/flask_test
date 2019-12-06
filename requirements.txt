@@ -1,0 +1,7 @@
+sqlalchemy
+click
+werkzeug
+flask
+flask-SQLAlchemy
+pymysql
+alembic
